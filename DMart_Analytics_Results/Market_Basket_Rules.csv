@@ -1,0 +1,11 @@
+Antecedent,Consequent,Rule,Support,Confidence,Lift
+Surf Excel Matic 3kg,Comfort Fabric Conditioner 2L,Surf Excel Matic 3kg -> Comfort Fabric Conditioner 2L,0.1502,0.6288,3.9038
+Comfort Fabric Conditioner 2L,Surf Excel Matic 3kg,Comfort Fabric Conditioner 2L -> Surf Excel Matic 3kg,0.1502,0.9322,3.9038
+Nescafe Classic Jar 200g,Basmati Rice 5kg,Nescafe Classic Jar 200g -> Basmati Rice 5kg,0.0339,0.5286,2.7797
+Basmati Rice 5kg,Nescafe Classic Jar 200g,Basmati Rice 5kg -> Nescafe Classic Jar 200g,0.0339,0.1782,2.7797
+Sunflower Oil 5L,Wheat Atta 10kg,Sunflower Oil 5L -> Wheat Atta 10kg,0.2721,0.89,2.6429
+Wheat Atta 10kg,Sunflower Oil 5L,Wheat Atta 10kg -> Sunflower Oil 5L,0.2721,0.8081,2.6429
+Parle-G Gold Biscuits 1kg,Tata Tea Premium 1kg,Parle-G Gold Biscuits 1kg -> Tata Tea Premium 1kg,0.1261,0.8648,2.3746
+Tata Tea Premium 1kg,Parle-G Gold Biscuits 1kg,Tata Tea Premium 1kg -> Parle-G Gold Biscuits 1kg,0.1261,0.3463,2.3746
+Nescafe Classic Jar 200g,Sunflower Oil 5L,Nescafe Classic Jar 200g -> Sunflower Oil 5L,0.0449,0.7001,2.2897
+Sunflower Oil 5L,Nescafe Classic Jar 200g,Sunflower Oil 5L -> Nescafe Classic Jar 200g,0.0449,0.1468,2.2897
